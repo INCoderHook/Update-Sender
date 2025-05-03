@@ -1,0 +1,23 @@
+{
+  "show": true,
+  "version_code": 34693,
+  "title": "Update Available",
+  "dis": "New features and bug fixes",
+  "link": "https://your-app-download-link.com",
+  "features": [
+    "AI Text to Speech",
+    "AI Voice Changer",
+    "Keyframe Media Effects",
+    "Audio Speed Control & Slip",
+    "SRT Subtitles Support"
+  ],
+  "update_button_text": "Update Now",
+  "expired_button_text": "1-Time Open",
+  "dark_mode": false,
+  "block_duration": {
+    "days": 0,
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 1
+  }
+}
