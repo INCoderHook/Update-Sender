@@ -1,22 +1,23 @@
 {
   "show": true,
-  "version_code": 0,
-  "title": "EpicModder v10 Update",
-  "dis": "A new version is available with exciting features and important fixes!",
-  "link": "https://your-download-link.com/app-v10.apk",
+  "version_code": 2,
+  "title": "New Update 14.4.0 Out Now",
+  "dis": "New features and bug fixe's",
+  "link": "https://Telegram.me/EpicModder",
   "features": [
-    "Speed hack added",
-    "New characters unlocked",
-    "Bug fixes & performance improvements",
-    "Dark mode support"
+    "No internet issue Fixed",
+    "Export Check internet fixed",
+    "Template Working 💯",
+    "Template Edit Mode Enabled",
+    "Without Login Working All Featuree"
   ],
-  "update_button_text": "UPDATE NOW",
-  "expired_button_text": "BLOCK FOR 24 HOURS",
-  "dark_mode": true,
+  "update_button_text": "Update Now",
+  "expired_button_text": "Later",
+  "dark_mode": false,
   "block_duration": {
     "days": 0,
-    "hours": 24,
+    "hours": 2,
     "minutes": 0,
-    "seconds": 0
+    "seconds": 0,
   }
 }
