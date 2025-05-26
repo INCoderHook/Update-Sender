@@ -1,0 +1,23 @@
+{
+  "show": true,
+  "version_code": 202514479,
+  "title": " New v3.7.1020 Out Now",
+  "dis": "New features and bug fixes",
+  "link": "https://Telegram.me/EpicModder",
+  "features": [
+    "No internet issue Fixed",
+    "Export Check internet fixed",
+    "Template Working 💯",
+    "Template Edit Mode Enabled",
+    "Without Login Working All Featuree"
+  ],
+  "update_button_text": "Update Now",
+  "expired_button_text": "Later",
+  "dark_mode": false,
+  "block_duration": {
+    "days": 0,
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 60
+  }
+}
