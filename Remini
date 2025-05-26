@@ -1,6 +1,6 @@
 {
   "show": true,
-  "version_code": 2025144799,
+  "version_code": 202514479,
   "title": " New v3.7.1020 Out Now",
   "dis": "New features and bug fixes",
   "link": "https://Telegram.me/EpicModder",
@@ -13,7 +13,7 @@
   ],
   "update_button_text": "Update Now",
   "expired_button_text": "Later",
-  "dark_mode": false,
+  "dark_mode": true,
   "block_duration": {
     "days": 0,
     "hours": 0,
