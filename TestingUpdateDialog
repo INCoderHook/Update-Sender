@@ -1,0 +1,22 @@
+[
+  {
+    "Header": "InShot",
+    "version_code": 1487,
+    "force_update": true,
+    "title": "Update Required",
+    "description": "A new version of the app is available. Please update to continue using all features.",
+    "update_button_text": "Update Now",
+    "update_url": "https://example.com/download/latest",
+    "package_name": "com.camerasideas.instashot"
+  },
+  {
+    "Header": "iPhone ios",
+    "version_code": 2,
+    "force_update": true,
+    "title": "Update Out Now",
+    "description": "A newer version is available with improved performance.",
+    "update_button_text": "Update Now",
+    "update_url": "https://example.com/download/v2",
+    "package_name": "com.ios.designed.ui"
+  }
+]
