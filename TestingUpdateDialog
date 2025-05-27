@@ -7,7 +7,7 @@
     "description": "A new version of the app is available. Please update to continue using all features.",
     "update_button_text": "Update Now",
     "update_url": "https://example.com/download/latest",
-    "package_name": "com.camerasideas.instashot"
+    "package_name": "Hello"
   },
   {
     "Header": "iPhone ios",
