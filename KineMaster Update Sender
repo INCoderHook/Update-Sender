@@ -1,7 +1,7 @@
 {
   "show": true,
-  "version_code": 34693,
-  "title": "New v12.0.0 Out Now",
+  "version_code": 346958454,
+  "title": "New Update Out Now",
   "dis": "New features and bug fixes",
   "link": "https://your-app-download-link.com",
   "features": [
@@ -12,12 +12,12 @@
     "SRT Subtitles Support"
   ],
   "update_button_text": "Update Now",
-  "expired_button_text": "1-Time Open",
+  "expired_button_text": "Later",
   "dark_mode": false,
   "block_duration": {
     "days": 0,
     "hours": 0,
     "minutes": 0,
-    "seconds": 12
+    "seconds": 1
   }
 }
