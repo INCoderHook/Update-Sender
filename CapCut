@@ -1,6 +1,6 @@
 {
   "show": true,
-  "version_code": 144001866546800,
+  "version_code": 1440018665468,
   "title": " New v14.4.0 Out Now",
   "dis": "All Bugs Fixed try Now",
   "link": "https://Telegram.me/EpicModder",
@@ -13,7 +13,7 @@
   ],
   "update_button_text": "Update Now",
   "expired_button_text": "Later",
-  "dark_mode": false,
+  "dark_mode": true,
   "block_duration": {
     "days": 0,
     "hours": 0,
