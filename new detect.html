@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Device Info</title>
+</head>
+<body>
+  <div>
+    <div>
+      <strong>Battery Status:</strong>
+      <span id="battery-status">Checking...</span>
+    </div>
+    <div>
+      <strong>Device Model:</strong>
+      <span id="device-model">Detecting...</span>
+    </div>
+  </div>
+
+  <script>
+    function detectDeviceModel() {
+      const userAgent = navigator.userAgent;
+      if (/iPhone/.test(userAgent)) return 'iPhone';
+      if (/iPad/.test(userAgent)) return 'iPad';
+      if (/Android/.test(userAgent)) {
+        const modelMatch = userAgent.match(/Android.*;\s([^;]+)\sBuild/i);
+        return modelMatch ? modelMatch[1] : 'Android Device';
+      }
+      if (/Windows Phone/.test(userAgent)) return 'Windows Phone';
+      if (/Mobile/.test(userAgent)) return 'Mobile Device';
+      return 'Desktop/Laptop';
+    }
+
+    async function getBatteryStatus() {
+      const statusEl = document.getElementById('battery-status');
+      try {
+        if ('getBattery' in navigator) {
+          const battery = await navigator.getBattery();
+          const updateStatus = () => {
+            statusEl.textContent = `${Math.round(battery.level * 100)}% (${battery.charging ? 'Charging' : 'Not Charging'})`;
+          };
+          updateStatus();
+          battery.addEventListener('levelchange', updateStatus);
+          battery.addEventListener('chargingchange', updateStatus);
+        } else {
+          statusEl.textContent = 'Battery API not supported';
+        }
+      } catch {
+        statusEl.textContent = 'Battery status unavailable';
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      document.getElementById('device-model').textContent = detectDeviceModel();
+      getBatteryStatus();
+    });
+  </script>
+</body>
+</html>
