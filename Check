@@ -3,7 +3,7 @@
   "Detect_installed": [
     {
       "package": "net.darktunnel.app",
-      "status": true,
+      "status": false,
       "installed_error_message": "Pirated software found. Remove to continue."
     }
   ],
