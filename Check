@@ -10,7 +10,7 @@
   "Detect_Not_installed": [
 
     {
-      "package": "com.animohub.pro",
+      "package": "com.pandavpn.androidproxy",
       "status": true,
       "not_installed_error_message": "Required service not installed."
     }
