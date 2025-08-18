@@ -21,6 +21,13 @@
       "url": "https://telegram.me/EpicModder"
     },
     
+        {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
+      "appName": "facebook",
+      "appVersion": "9.1.0",
+      "url": "https://telegram.me/EpicModder"
+    },
+    
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
       "appName": "Youtube",
