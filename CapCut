@@ -20,12 +20,7 @@
       "appVersion": "5.1.0",
       "url": "https://telegram.me/EpicModder"
     },
-    {
-      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
-      "appName": "Facebook",
-      "appVersion": "3.2.5",
-      "url": "https://telegram.me/EpicModder"
-    },
+    
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
       "appName": "Youtube",
@@ -42,7 +37,10 @@
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
       "url": "https://www.youtube.com/c/EpicModder"
     },
-    
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
+      "url": "https://www.facebook.com/c/EpicModder"
+    },
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
       "url": "https://instagram.com/itshehzada"
