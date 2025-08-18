@@ -1,0 +1,54 @@
+{
+  "packageName": "com.pandavpn.androidproxy",
+  "versionName": "8.0.1",
+  "forceUpdate": false,
+  "ExpiredDate": "2025/07/25 10:00:00",
+  "description": "✅ Official Release v4.0 is out!\n🎨 New UI elements and themes.\n🚀 Enhanced performance and stability.",
+  "buttonText": "DOWNLOAD",
+  "buttonUrl": "https://telegram.me/EpicModder",
+  "cancelButtonText": "Later",
+  "appList": [
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png",
+      "appName": "Telegram",
+      "appVersion": "2.5.1",
+      "url": "https://telegram.me/EpicModder"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+      "appName": "Instagram",
+      "appVersion": "5.1.0",
+      "url": "https://telegram.me/EpicModder"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
+      "appName": "Facebook",
+      "appVersion": "3.2.5",
+      "url": "https://telegram.me/EpicModder"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
+      "appName": "Youtube",
+      "appVersion": "1.9.8",
+      "url": "https://telegram.me/EpicModder"
+    }
+  ],
+  "epicList": [
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png",
+      "url": "https://telegram.me/EpicModder_in"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+      "url": "https://www.youtube.com/c/EpicModder"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
+      "url": "https://www.youtube.com/c/EpicModder"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
+      "url": "https://instagram.com/itshehzada"
+    }
+  ]
+}
