@@ -6,7 +6,7 @@
   "description": "✅ Official Release v4.0 is out!\n🎨 New UI elements and themes.\n🚀 Enhanced performance and stability.",
   "buttonText": "DOWNLOAD",
   "buttonUrl": "https://telegram.me/EpicModder",
-Download
+"cancelButtonText": "Close",
   "appList": [
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png",
