@@ -2,14 +2,14 @@
   "packageName": "com.simple.ui",
   "versionName": "3.0",
   "forceUpdate": false,
-  "ExpiredDate": "2025/07/25 10:00:00",
+  "ExpiredDate": "2025/08/19 00:02:30",
   "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
   "buttonText": "DOWNLOAD",
   "buttonUrl": "https://telegram.me/EpicModder",
   "cancelButtonText": "Exit",
   "appListButton": {
     "iconUrl1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbCcHI7Kmyqi6lypwJ9MaF2c-Ghx5FCepm3RY6aKtXbKK7hIqme6gPtU8c7LpHf_fDeXtKnqvwg9EnElSqmbZODHcEyqVCL80wBmW0eJHixc1WX3YDnH2LDnG0UqKQBj3YHT4ZxOFTNAO1A0gugHV2fFXWR0wMj2Ck0YP94d-puzSq1_OKOEJRpdF200k/s1600/bg_home_header_premium.png",
-    "iconUrl2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbCcHI7Kmyqi6lypwJ9MaF2c-Ghx5FCepm3RY6aKtXbKK7hIqme6gPtU8c7LpHf_fDeXtKnqvwg9EnElSqmbZODHcEyqVCL80wBmW0eJHixc1WX3YDnH2LDnG0UqKQBj3YHT4ZxOFTNAO1A0gugHV2fFXWR0wMj2Ck0YP94d-puzSq1_OKOEJRpdF200k/s1600/bg_home_header_premium.png"
+    "iconUrl2": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
   },
   "appList": [
     {
