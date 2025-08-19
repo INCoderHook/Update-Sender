@@ -4,12 +4,12 @@
   "forceUpdate": false,
   "ExpiredDate": "2025/08/19 02:20:52",
   "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
-  "buttonText": "> DOWNLOAD <",
+  "buttonText": " DOWNLOAD ",
   "buttonUrl": "https://telegram.me/EpicModder",
   "cancelButtonText": "Close",
   "appListButton": {
     "iconUrl1": "https://bit.ly/EM_ClickMe",
-    "iconUrl2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqbKHilG7OBoitNAVEeEXusufMkx2wEKYQyZIfxmZHRuL-kQOs92u5OdYP_usXPv9GxPgtwvf0db5SozqhUA0hMN5URJREjdC3j975A3_8jmQnQ9MdapYkZab6McLWF3ZzoWAUXQj7R5rYNBw3Kitzrv89HFyQ_rB0CcfKRlpFuJFJhGTUHa6Z9pM2-3lw/s1600/1001021604.png"
+    "iconUrl2": "https://bit.ly/EM_ClickMe2"
   },
   "appList": [
     {
