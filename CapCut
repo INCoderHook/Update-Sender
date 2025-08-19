@@ -40,14 +40,17 @@
     }
   ],
   "epicList": [
-    {
-      "iconUrl": "https://bit.ly/itshehzadaProfile",
-      "url": "https://telegram.me/itshehzada"
-    },
+
     {
       "iconUrl": "https://bit.ly/EpicModderProfile",
       "url": "https://telegram.me/EpicModder"
     },
+
+    {
+      "iconUrl": "https://bit.ly/itshehzadaProfile",
+      "url": "https://telegram.me/itshehzada"
+    },
+
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
       "url": "https://www.facebook.com/c/EpicModder"
