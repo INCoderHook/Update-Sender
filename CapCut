@@ -13,15 +13,15 @@
   },
   "appList": [
     {
-      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png",
-      "appName": "Telegram",
-      "appVersion": "2.5.1",
+      "iconUrl": "https://bit.ly/icon_CapCut",
+      "appName": "CapCut PRO",
+      "appVersion": "20.2.0",
       "url": "https://telegram.me/EpicModder"
     },
     {
-      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
-      "appName": "Instagram",
-      "appVersion": "5.1.0",
+      "iconUrl": "https://bit.ly/icon_Remini",
+      "appName": "Remini PRO",
+      "appVersion": "3.7.1070.202515697",
       "url": "https://telegram.me/EpicModder"
     },
     {
