@@ -1,0 +1,8 @@
+{
+"show": true,
+"title": "New Update Available!",
+"message": "Update the latest version to enjoy the new features and improvements.",
+"button_text": "UPDATE NOW",
+"action_url": "https://www.google.com/search?q=https://play.google.com/store/apps/details%3Fid%3Dcom.yourapp.package",
+"cancelable": false
+}
