@@ -6,6 +6,6 @@
   "message": "Update the latest version to enjoy the new features and improvements.",
   "button_text": "UPDATE NOW",
   "action_url": "https://play.google.com/store/apps/details?id=com.yourapp.package",
-  "cancelable": false,
+  "cancelable": true,
   "theme": "green"
 }
