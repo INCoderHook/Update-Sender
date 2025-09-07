@@ -1,7 +1,7 @@
 {
   "packageName": "com.pandavpn.androidproxy",
   "versionName": "8.0.4",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "ExpiredDate": "2025/07/25 10:00:00",
   "description": "✅ Official Release v8.0.4 is out!\n🚀 Enhanced performance and stability.",
   "buttonText": "DOWNLOAD",
