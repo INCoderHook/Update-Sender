@@ -1,15 +1,15 @@
 [
   {
-    "appName": "CapCut Pro",
+    "appName": "CapCut PRO",
     "packageName": "com.lemon.lvoverseas",
     "versionCode": 222263000,
     "updateUrl": "https://Telegram.me/EpicModder",
     "title": "New Update Available!",
     "description": "What's New!.\n1. New Ui Design\n2. improved performance\n4. Stable Ui Design",
-    "isForce": false,
+    "isForce": true,
     "isExpired": false,
     "expiryDate": "2026-09-01",
-    "closeButtonText": "Exit",
+    "closeButtonText": "Cancel",
     "updateButtonText": "Update Now!"
   }
 ]
