@@ -1,0 +1,16 @@
+[
+
+  {
+    "appName": "YouTube Premium",
+    "packageName": "com.android.youtube.premium",
+    "versionCode": 1556755904,
+    "updateUrl": "https://Telegram.me/EpicModder",
+    "title": "App Has Expired",
+    "description": "Your app version is too old and no longer supported. Please update to the latest version.",
+    "isForce": false,
+    "isExpired": false,
+    "expiryDate": "2025-09-01",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Update Now"
+  }
+]
