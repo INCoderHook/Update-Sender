@@ -1,5 +1,6 @@
 {
   "isForce": true,
+  "showCancelButton": true,
   "updateUrl": "https://play.google.com/store/apps/details?id=your.package.name",
-  "message": "Important: An update is required to continue using the app."
+  "message": "An update is available. You can update now or later."
 }
