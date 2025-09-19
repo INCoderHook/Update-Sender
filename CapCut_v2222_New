@@ -1,0 +1,6 @@
+{
+  "isForce": true,
+  "showCancelButton": false,
+  "updateUrl": "https://play.google.com/store/apps/details?id=your.package.name",
+  "message": "Please Update Your App for a Better Experience."
+}
