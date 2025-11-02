@@ -1,8 +1,8 @@
 [
   {
     "packageName": "com.camerasideas.instashot",
-    "versionName": "20.2.0",
-    "forceUpdate": false,
+    "versionName": "20.0.0",
+    "forceUpdate": true,
     "ExpiredDate": "2025/08/22 02:20",
     "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
     "buttonText": " DOWNLOAD NOW ",
@@ -59,8 +59,8 @@
   },
   {
     "packageName": "nl.joriswit.soko",
-    "versionName": "20.2.0",
-    "forceUpdate": false,
+    "versionName": "10.2.0",
+    "forceUpdate": true,
     "ExpiredDate": "2025/08/22 02:20",
     "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
     "buttonText": " GET LATEST ",
@@ -117,8 +117,8 @@
   },
   {
     "packageName": "com.fastsoft.cubeW",
-    "versionName": "20.2.0",
-    "forceUpdate": false,
+    "versionName": "9.2.0",
+    "forceUpdate": true,
     "ExpiredDate": "2025/08/22 02:20",
     "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
     "buttonText": " UPDATE HERE ",
