@@ -1,0 +1,32 @@
+[
+  {
+    "Header": "Default",
+    "version_code": 105,
+    "force_update": false,
+    "title": "New Update Available!",
+    "description": "It's highly recommended to update for the latest features.\n\nKey changes:\n- Major bug fixes and performance improvements\n- New UI elements and animations\n- Added support for new devices",
+    "update_button_text": "Update Now",
+    "update_url": "https://play.google.com/store/apps/details?id=com.your.app",
+    "Update_dismiss_button_text": "Later",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 5,
+    "show_only_update_button": false,
+    "description_type": 1,
+    "html_formatted": false
+  },
+  {
+    "package_name": "com.paid.dialog.box",
+    "version_code": 106,
+    "force_update": true,
+    "title": "Critical Update Required",
+    "description": "<h3>**Critical Update**</h3><p>We've detected an issue that requires an immediate update. This version is no longer supported.</p><ul><li>Security Patch Applied</li><li>New Feature Enabled</li></ul>",
+    "update_button_text": "Download Latest Version",
+    "update_url": "https://example.com/latest_apk",
+    "Update_dismiss_button_text": "Exit App",
+    "auto_redirect_enabled": true,
+    "auto_redirect_delay": 10,
+    "show_only_update_button": true,
+    "description_type": 0,
+    "html_formatted": true
+  }
+]
