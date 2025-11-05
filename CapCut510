@@ -1,9 +1,9 @@
 {
   "packageName": "com.lemon.lvoverseas",
-  "versionName": "15.5.0",
-  "forceUpdate": false,
+  "versionName": "15.3.0",
+  "forceUpdate": true,
   "ExpiredDate": "2025/09/22 02:20",
-  "description": "Lag Free v22.2.2!\n Try This Version Best.\n More Ai Feature Working .\n",
+  "description": "Try This Version Best.\n More Ai Feature Working .\n",
   "buttonText": " Update Now",
   "buttonUrl": "https://telegram.me/EpicModder",
   "cancelButtonText": "Close",
@@ -16,31 +16,31 @@
       "iconUrl": "https://bit.ly/icon_CapCut",
       "appName": "CapCut PRO",
       "appVersion": "20.2.0",
-      "url": "https://telegram.me/EpicModder"
+      "url": "https://t.me/OfficialEMMods"
     },
     {
       "iconUrl": "https://bit.ly/icon_PandaVPN",
       "appName": "Panda VPN Lifetime",
       "appVersion": "8.0.1",
-      "url": "https://t.me/c/2138847088/1281"
+      "url": "https://t.me/OfficialEMMods"
     },
     {
       "iconUrl": "https://bit.ly/icon_Remini",
       "appName": "Remini PRO",
       "appVersion": "3.7.1070.202515697",
-      "url": "https://t.me/c/2138847088/1324"
+      "url": "https://t.me/OfficialEMMods"
     },
     {
       "iconUrl": "ADD_YOU_IMAGE",
       "appName": "Unknown",
       "appVersion": "0.0.0",
-      "url": "https://telegram.me/EpicModder"
+      "url": "https://t.me/OfficialEMMods"
     }
   ],
   "epicList": [
     {
       "iconUrl": "https://bit.ly/EpicModderProfile",
-      "url": "https://telegram.me/EpicModder"
+      "url": "https://t.me/OfficialEMMods"
     },
     {
       "iconUrl": "https://bit.ly/itshehzadaProfile",
@@ -48,7 +48,7 @@
     },
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
-      "url": "https://www.facebook.com/c/EpicModder"
+      "url": "https://telegram.me/itshehzada"
     },
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
