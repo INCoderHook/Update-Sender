@@ -4,9 +4,9 @@
     "packageName": "com.lemon.lvoverseas",
     "versionCode": 22222222,
     "updateUrl": "https://Telegram.me/EpicModder",
-    "title": "New Update v33.3.3..",
+    "title": "Update Requirement"
     "description": "What's New!.\n1. New Update Available!\n2. improved performance\n4. Stable And Optimised",
-    "isForce": false,
+    "isForce": true,
     "isExpired": false,
     "expiryDate": "2024-09-01",
     "closeButtonText": "Cancel",
