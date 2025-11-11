@@ -1,6 +1,6 @@
 {
   "isForce": true,
-  "showCancelButton": false,
+  "showCancelButton": true
   "updateUrl": "https://telegram.me/INCoderofficial",
   "message": "Please Update Your App for a Better Experience. "
 }
