@@ -7,7 +7,7 @@
     "title": "Update Requirement"
     "description": "Your Old Channel EpicModder Sold Join Your Offical INCoder Channel Search @INCoderofficial",
     "isForce": true,
-    "isExpired": false,
+    "isExpired": true,
     "expiryDate": "2025-01-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Update Now"
