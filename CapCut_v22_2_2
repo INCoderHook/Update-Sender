@@ -2,13 +2,13 @@
   {
     "appName": "CapCut PRO",
     "packageName": "com.lemon.lvoverseas",
-    "versionCode": 22222222,
+    "versionCode": 15500100,
     "updateUrl": "https://telegram.me/INCoderofficial",
     "title": "Update Requirement"
     "description": "Your Old Channel EpicModder Sold Join Your Offical INCoder Channel Search @INCoderofficial",
     "isForce": true,
     "isExpired": false,
-    "expiryDate": "2024-09-01",
+    "expiryDate": "2025-01-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Update Now"
   }
