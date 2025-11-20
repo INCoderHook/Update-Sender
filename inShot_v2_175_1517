@@ -1,7 +1,7 @@
 {
-  "show": true,
+  "show": false,
   "version_name": "2.175.1517",
-  "force_update": true,
+  "force_update": false,
   "title": "New Update Available!",
   "message": "Update the latest version to enjoy the new features and improvements.",
   "button_text": "UPDATE NOW",
