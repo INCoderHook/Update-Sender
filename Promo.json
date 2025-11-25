@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "show_promo": true,
+    "dialog_title": "YouTube & Partners",
+    "cache_version": 1
+  },
+  "slides": [
+    {
+      "id": 1,
+      "image_url": "https://i.ibb.co/vz1z4q8/youtube-thumb.jpg",
+      "subtitle": "Watch our latest tutorial on how to use this mod safely.",
+      "button_text": "Watch Video",
+      "button_link": "https://youtube.com/@YourChannel"
+    },
+    {
+      "id": 2,
+      "image_url": "https://i.ibb.co/hKq9d9d/telegram-thumb.jpg",
+      "subtitle": "Join our backup channel for instant updates & fixes.",
+      "button_text": "Join Channel",
+      "button_link": "https://t.me/INCoderOfficial"
+    },
+    {
+      "id": 3,
+      "image_url": "https://i.ibb.co/7j55x0v/website-thumb.jpg",
+      "subtitle": "Visit our official website for more tools.",
+      "button_text": "Visit Website",
+      "button_link": "https://yourwebsite.com"
+    }
+  ]
+}
