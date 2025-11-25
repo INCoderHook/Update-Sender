@@ -7,21 +7,21 @@
   "slides": [
     {
       "id": 1,
-      "image_url": "https://i.ibb.co/vz1z4q8/youtube-thumb.jpg",
+      "image_url": "https://picsum.photos/200/300/?blur=2",
       "subtitle": "Watch our latest tutorial on how to use this mod safely.",
       "button_text": "Watch Video",
       "button_link": "https://youtube.com/@YourChannel"
     },
     {
       "id": 2,
-      "image_url": "https://i.ibb.co/hKq9d9d/telegram-thumb.jpg",
+      "image_url": "https://picsum.photos/seed/picsum/200/300",
       "subtitle": "Join our backup channel for instant updates & fixes.",
       "button_text": "Join Channel",
       "button_link": "https://t.me/INCoderOfficial"
     },
     {
       "id": 3,
-      "image_url": "https://i.ibb.co/7j55x0v/website-thumb.jpg",
+      "image_url": "https://picsum.photos/200/300?grayscale",
       "subtitle": "Visit our official website for more tools.",
       "button_text": "Visit Website",
       "button_link": "https://yourwebsite.com"
