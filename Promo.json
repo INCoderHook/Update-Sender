@@ -1,39 +1,33 @@
+
 {
-  "settings": {
-    "show_promo": true,
-    "dialog_title": "YouTube & Partners",
-    "cache_version": 1
-  },
-  "slides": [
+  "INCoderList": [
     {
-      "id": 1,
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZxotI3y4QSBfbTvvZX2dmaFGRkvPbGFGa8G-jfUvCK6MfgnBbX3NX1aBjhVr6hOIvUgYfgFCiBBFxQdNffZiFuLbyFm4Jrr1K7c2OKA0FtbfWNQJw1NTpQmD8z_Ftmo_9HnbNDwIjK8bVNfNlqPhrgzuT01WnR8zrO9Rb6jkXx-jJtvXTfnOVZrzCQju/s1600/1000061490.jpg",
-      "subtitle": "Watch our latest tutorial on how to use this mod safely.",
-      "button_text": "Watch Video",
-      "button_link": "https://youtube.com/@YourChannel"
+      "Promo": 1,
+      "show": true,
+      "Title": "YouTube",
+      "URLimage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZxotI3y4QSBfbTvvZX2dmaFGRkvPbGFGa8G-jfUvCK6MfgnBbX3NX1aBjhVr6hOIvUgYfgFCiBBFxQdNffZiFuLbyFm4Jrr1K7c2OKA0FtbfWNQJw1NTpQmD8z_Ftmo_9HnbNDwIjK8bVNfNlqPhrgzuT01WnR8zrO9Rb6jkXx-jJtvXTfnOVZrzCQju/s1600/1000061490.jpg",
+      "Subtitle": "Watch our latest video and subscribe now!",
+      "buttonText": "Watch Now",
+      "ButtonLink": "https://youtube.com/incoderofficial"
     },
     {
-      "id": 2,
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6PWmkB3VZ9-J2rK2ySHXTIJxVdGmGh14ftuqUuwUz83pPb82sl3F1N14UKcfpJK4B7bkVszv8zWljd4mY_cfrqAN49Sup2McJPP4ZJsq-pwDVNzzmvJounqRVGVQBg0dck5IyfQUpCJ3S5FfTvctB-sSS1t_9ZeoR7VS5JVRzYXzygTvZH_I-ZLCUDD3/s1600/1000061489.jpg",
-      "subtitle": "Join our backup channel for instant updates & fixes.",
-      "button_text": "Join Channel",
-      "button_link": "https://t.me/INCoderOfficial"
+      "Promo": 2,
+      "show": false,
+      "Title": "Discord",
+      "URLimage": https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6PWmkB3VZ9-J2rK2ySHXTIJxVdGmGh14ftuqUuwUz83pPb82sl3F1N14UKcfpJK4B7bkVszv8zWljd4mY_cfrqAN49Sup2McJPP4ZJsq-pwDVNzzmvJounqRVGVQBg0dck5IyfQUpCJ3S5FfTvctB-sSS1t_9ZeoR7VS5JVRzYXzygTvZH_I-ZLCUDD3/s1600/1000061489.jpg",
+      "Subtitle": "Join our official chat group for direct support.",
+      "buttonText": "Join Server",
+      "ButtonLink": "https://discord.gg/incoderchat"
     },
     {
-      "id": 3,
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCv6Mp1awydu07dzoTt2Hky5o6M9DSFdlxuBOAw8P8jqBadFJc-CL7xJsuPdO12lnPuObOWBzAZG_vVxfvwybPWCn6E8BOlZtkI4WbcTWf3xSYqnUXtA6cLKGdY9TpP2fDAGvcJaJnRD50jOBMGze6C3bEvUL3YKeDu3U_4fn-TL1HcfUMhcSbJTDeCaM/s1600/1000061488.jpg",
-      "subtitle": "Visit our official website for more tools.",
-      "button_text": "Visit Website",
-      "button_link": "https://yourwebsite.com"
-    },
-
- {
-      "id": 4,
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6PWmkB3VZ9-J2rK2ySHXTIJxVdGmGh14ftuqUuwUz83pPb82sl3F1N14UKcfpJK4B7bkVszv8zWljd4mY_cfrqAN49Sup2McJPP4ZJsq-pwDVNzzmvJounqRVGVQBg0dck5IyfQUpCJ3S5FfTvctB-sSS1t_9ZeoR7VS5JVRzYXzygTvZH_I-ZLCUDD3/s1600/1000061489.jpg",
-      "subtitle": "Join our backup channel for instant updates & fixes.",
-      "button_text": "YouTube Play",
-      "button_link": "https://t.me/INCoderOfficial"
+      "Promo": 3,
+      "show": true,
+      "Title": "Instagram",
+      "URLimage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCv6Mp1awydu07dzoTt2Hky5o6M9DSFdlxuBOAw8P8jqBadFJc-CL7xJsuPdO12lnPuObOWBzAZG_vVxfvwybPWCn6E8BOlZtkI4WbcTWf3xSYqnUXtA6cLKGdY9TpP2fDAGvcJaJnRD50jOBMGze6C3bEvUL3YKeDu3U_4fn-TL1HcfUMhcSbJTDeCaM/s1600/1000061488.jpg",
+      "Subtitle": "Follow us for quick updates and announcements.",
+      "buttonText": "Follow Us",
+      "ButtonLink": "https://instagram.com/incoderofficial"
     }
-
   ]
 }
+
