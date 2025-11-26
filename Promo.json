@@ -25,6 +25,15 @@
       "subtitle": "Visit our official website for more tools.",
       "button_text": "Visit Website",
       "button_link": "https://yourwebsite.com"
+    },
+
+ {
+      "id": 4,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6PWmkB3VZ9-J2rK2ySHXTIJxVdGmGh14ftuqUuwUz83pPb82sl3F1N14UKcfpJK4B7bkVszv8zWljd4mY_cfrqAN49Sup2McJPP4ZJsq-pwDVNzzmvJounqRVGVQBg0dck5IyfQUpCJ3S5FfTvctB-sSS1t_9ZeoR7VS5JVRzYXzygTvZH_I-ZLCUDD3/s1600/1000061489.jpg",
+      "subtitle": "Join our backup channel for instant updates & fixes.",
+      "button_text": "YouTube Play",
+      "button_link": "https://t.me/INCoderOfficial"
     }
+
   ]
 }
