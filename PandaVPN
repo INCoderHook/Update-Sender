@@ -1,11 +1,11 @@
 {
   "packageName": "com.pandavpn.androidproxy",
-  "versionName": "8.1.0",
+  "versionName": "8.2.4",
   "forceUpdate": true,
   "ExpiredDate": "2025/07/25 10:00:00",
   "description": "Your Old Channel EpicModder Sold Join Your Offical INCoder Channel @INCoderofficial",
   "buttonText": "DOWNLOAD",
-  "buttonUrl": "https://telegram.me/EpicModder",
+  "buttonUrl": "https://t.me/INCoderOfficial",
   "cancelButtonText": "Exit",
   "appList": [
     {
