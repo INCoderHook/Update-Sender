@@ -1,11 +1,11 @@
 {
   "packageName": "com.bigwinepot.nwdn.international",
-  "versionName": "3.7.1156.202517454",
-  "forceUpdate": false,
-  "ExpiredDate": "2025/08/22 02:20",
+  "versionName": "3.7.1156.2025179454",
+  "forceUpdate": tru,
+  "ExpiredDate": "2024/08/22 02:20",
   "description": "Your Old Channel EpicModder Sold Join Your Offical INCoder Channel @INCoderofficial",
   "buttonText": " DOWNLOAD ",
-  "buttonUrl": "https://telegram.me/EpicModder",
+  "buttonUrl": "https://telegram.me/INCoderofficial",
   "cancelButtonText": "Close",
   "appListButton": {
     "iconUrl1": "https://bit.ly/EM_ClickMe",
